@@ -18,3 +18,6 @@ This project is part of the IBM Data Analytics Professional Certificate. The goa
 * **Requests**: For API communication.
 * **Pandas/Openpyxl**: For data manipulation and Excel generation.
 * **JupyterLite/Skills Network Labs**: Development environment.
+## Interactive Dashboard
+
+🔗 Looker Studio Dashboard: https://lookerstudio.google.com/reporting/76de42a3-5283-4e1a-9df7-048b14e5f18f
