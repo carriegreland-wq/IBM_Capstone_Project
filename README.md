@@ -21,4 +21,6 @@ This project is part of the IBM Data Analytics Professional Certificate. The goa
 ## Interactive Dashboard
 
 🔗 Looker Studio Dashboard: https://lookerstudio.google.com/reporting/76de42a3-5283-4e1a-9df7-048b14e5f18f
+
+## Final Presentation
 https://github.com/carriegreland-wq/IBM_Capstone_Project/blob/main/DataAnalystPresentation.pdf
